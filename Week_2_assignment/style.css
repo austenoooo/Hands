@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+canvas {
+  outline: none; 
+  border: none;
+}
+
+/* #container-right{
+  position: relative;
+  width: 50%
+}
+
+#container-left{
+  position: relative;
+  width: 50%;
+} */
+
+
+
